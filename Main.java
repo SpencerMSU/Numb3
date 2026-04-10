@@ -6,5 +6,6 @@ class Main{
         System.out.println("третий коммит");
         System.out.println("чертивиртый коммит");
         System.out.println("изменение");
+        System.out.print("Это добавлено в ветке dev");
     }
 } 
